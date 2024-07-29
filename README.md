@@ -78,6 +78,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuts9&repo=Projeto-Integrador&theme=github_dark&show_owner=True)](https://github.com/Tuts9/Projeto-Integrador)
 
-![snake gif](https://github.com/Tuts9/Tuts9/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Tuts9/Tuts9/blob/output/github-contribution-grid-snake.svg&theme=github_dark)
 
 
