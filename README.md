@@ -22,3 +22,5 @@
 
 Disposto a mudar o mundo usando a programação! 👨‍💻
 
+![snake gif](https://github.com/Tuts9/Tuts9/blob/output/github-contribution-grid-snake.svg)
+
