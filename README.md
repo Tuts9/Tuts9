@@ -9,16 +9,16 @@
 ## 📱 Contato
 
 <div align="left">
-  <a href="https://instagram.com/tuts_rodrigues">
+  <a href="https://instagram.com/tuts_rodrigues" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/arthur-rodrigues-248758269/">
+  <a href="https://www.linkedin.com/in/arthur-rodrigues-248758269/" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:arthur.devti@gmail.com">
+  <a href="mailto:arthur.devti@gmail.com" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="#">
+  <a href="#" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
