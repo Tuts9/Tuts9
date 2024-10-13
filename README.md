@@ -70,8 +70,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
 
+## Repositório do Projeto Integrador do Curso de Desenvolvimento de Sistemas - Class01
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuts9&repo=Projeto-Integrador&theme=github_dark&show_owner=True)](https://github.com/Tuts9/Projeto-Integrador)
 
 
 
