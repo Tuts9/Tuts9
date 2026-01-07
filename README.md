@@ -77,10 +77,5 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tuts9/Tuts9/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/Tuts9/Tuts9/blob/output/github-contribution-grid-snake.svg)" />
-  <img alt="github-snake" src="https://github.com/Tuts9/Tuts9/blob/output/github-contribution-grid-snake.svg" />
-</picture>
 
 
