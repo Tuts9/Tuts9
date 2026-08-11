@@ -1,194 +1,241 @@
 <div align="center">
 
 <!-- ===================================================== -->
-<!--                 JARVIS // BOOT SEQUENCE               -->
+<!--                 AI DARK // SYSTEM BOOT                -->
 <!-- ===================================================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=1000&pause=200&color=00E5FF&center=true&vCenter=true&repeat=false&width=600&height=35&lines=%5BSYSTEM%5D+Initializing+developer+profile...;%5BSYSTEM%5D+Loading+modules...;%5BSYSTEM%5D+Establishing+secure+connection...;%5BSYSTEM%5D+ACCESS+GRANTED." alt="System initialization" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=900&pause=250&color=A855F7&center=true&vCenter=true&repeat=false&width=700&height=40&lines=%5BCORE%5D+Booting+Arthur+Rodrigues+profile...;%5BAI%5D+Loading+developer+modules...;%5BNETWORK%5D+Secure+connection+established...;%5BSYSTEM%5D+READY." alt="System Initialization" />
 
 <br>
 
-# `> ARTHUR RODRIGUES_`
+# `ARTHUR RODRIGUES`
 
-### `FULL STACK DEVELOPER // NETWORKS // AI // CYBERSECURITY`
+### `FULL STACK DEVELOPER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Desenvolvendo+solu%C3%A7%C3%B5es.+Conectando+sistemas.;Full+Stack+Developer+%7C+Java+%7C+Python;Redes+%7C+Intelig%C3%AAncia+Artificial+%7C+Cybersecurity;Aprendizado+cont%C3%ADnuo+em+execu%C3%A7%C3%A3o..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Software+Development+%2F%2F+Networks+%2F%2F+AI;Java+%2F%2F+Spring+Boot+%2F%2F+Python+%2F%2F+Django;Building+systems.+Learning+continuously.;Networks+%2F%2F+Artificial+Intelligence+%2F%2F+Cybersecurity" alt="Typing Animation" />
 
 <br>
 
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00e5ff?style=for-the-badge&labelColor=050A0E)
-![Profile](https://img.shields.io/badge/PROFILE-Tuts9-00b8d4?style=for-the-badge&labelColor=050A0E)
-![Role](https://img.shields.io/badge/FULL_STACK-DEVELOPER-00e5ff?style=for-the-badge&labelColor=050A0E)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-22D3EE?style=for-the-badge&labelColor=09090B)
+![Profile](https://img.shields.io/badge/USER-Tuts9-A855F7?style=for-the-badge&labelColor=09090B)
+![Role](https://img.shields.io/badge/FULL_STACK-DEVELOPER-6366F1?style=for-the-badge&labelColor=09090B)
 
 </div>
 
 ---
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    J.A.R.V.I.S. INTERFACE                  ║
-╠══════════════════════════════════════════════════════════════╣
-║  USER      : Arthur Rodrigues                              ║
-║  ALIAS     : Tuts9                                         ║
-║  ROLE      : Full Stack Developer                          ║
-║  STATUS    : ONLINE                                        ║
-║  PROTOCOL  : LEARN • BUILD • IMPROVE                       ║
-╚══════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                     A.I. PROFILE CORE                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  USER        Arthur Rodrigues                                │
+│  ALIAS       Tuts9                                           │
+│  ROLE        Full Stack Developer                            │
+│                                                              │
+│  INTERESTS   Software Development                            │
+│              Networks                                        │
+│              Artificial Intelligence                         │
+│              Cybersecurity                                   │
+│                                                              │
+│  STATUS      ● ONLINE                                        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-## `// SOBRE_MIM.exe`
+<br>
 
-```java
-public class ArthurRodrigues {
+## `01 // SOBRE_MIM`
 
-    String role = "Full Stack Developer";
+```python
+class ArthurRodrigues:
 
-    String[] interests = {
-        "Desenvolvimento de Software",
-        "Redes",
-        "Inteligência Artificial",
-        "Cybersegurança"
-    };
+    role = "Full Stack Developer"
 
-    String mindset = "Sempre aprendendo.";
+    fields = [
+        "Software Development",
+        "Computer Networks",
+        "Artificial Intelligence",
+        "Cybersecurity"
+    ]
 
-    public void currentMission() {
-        System.out.println(
-            "Transformar problemas reais em soluções através da tecnologia."
-        );
-    }
-}
+    mindset = "Learn. Build. Improve. Repeat."
+
+    def current_mission(self):
+        return "Transformar problemas reais em soluções através da tecnologia."
 ```
 
-Atualmente trabalho diretamente com **redes** e, nas horas vagas, dedico boa parte do meu tempo ao **desenvolvimento de software**.
+Atualmente trabalho diretamente com **redes** e, nas horas vagas, dedico meu tempo ao **desenvolvimento de software**.
 
-Tenho interesse em diferentes áreas da tecnologia e busco desenvolver meus conhecimentos principalmente em **programação, infraestrutura de redes, inteligência artificial e cybersegurança**.
+Tenho interesse em diferentes áreas da tecnologia e busco evoluir constantemente meus conhecimentos em **programação, redes, inteligência artificial e cybersegurança**.
 
-No momento, também estou desenvolvendo um **sistema interno de gestão para um cliente**, projetado especificamente para atender às necessidades do negócio.
+No momento, também trabalho no desenvolvimento de um **sistema interno de gestão criado especificamente para atender às necessidades de um cliente**.
 
-Entre os módulos da aplicação estão:
+O sistema possui recursos como:
 
 `Ordens de Serviço` • `Acompanhamento pelo Cliente` • `Cadastro de Clientes` • `PDV` • `Dashboards` • `Gestão Interna`
 
-> **Objetivo:** construir sistemas úteis, entender profundamente como a tecnologia funciona e evoluir continuamente como desenvolvedor.
+> `MISSION //` Criar soluções úteis, compreender como sistemas funcionam e evoluir continuamente como profissional de tecnologia.
 
 <br>
 
-## `// TECH_STACK`
+---
+
+## `02 // TECH_STACK`
 
 <div align="center">
 
-### `CORE DEVELOPMENT`
+### `BACKEND`
 
-![Java](https://img.shields.io/badge/Java-050A0E?style=for-the-badge&logo=openjdk&logoColor=00E5FF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-050A0E?style=for-the-badge&logo=springboot&logoColor=00E5FF)
-![Python](https://img.shields.io/badge/Python-050A0E?style=for-the-badge&logo=python&logoColor=00E5FF)
-![Django](https://img.shields.io/badge/Django-050A0E?style=for-the-badge&logo=django&logoColor=00E5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-050A0E?style=for-the-badge&logo=javascript&logoColor=00E5FF)
+![Java](https://img.shields.io/badge/Java-09090B?style=for-the-badge&logo=openjdk&logoColor=A855F7)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-09090B?style=for-the-badge&logo=springboot&logoColor=22D3EE)
+![Python](https://img.shields.io/badge/Python-09090B?style=for-the-badge&logo=python&logoColor=A855F7)
+![Django](https://img.shields.io/badge/Django-09090B?style=for-the-badge&logo=django&logoColor=22D3EE)
 
 ### `FRONTEND`
 
-![HTML5](https://img.shields.io/badge/HTML5-050A0E?style=for-the-badge&logo=html5&logoColor=00E5FF)
-![CSS3](https://img.shields.io/badge/CSS3-050A0E?style=for-the-badge&logo=css3&logoColor=00E5FF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-050A0E?style=for-the-badge&logo=tailwindcss&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-09090B?style=for-the-badge&logo=javascript&logoColor=A855F7)
+![HTML5](https://img.shields.io/badge/HTML5-09090B?style=for-the-badge&logo=html5&logoColor=22D3EE)
+![CSS3](https://img.shields.io/badge/CSS3-09090B?style=for-the-badge&logo=css3&logoColor=A855F7)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-09090B?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
 
-### `DATABASE • DEVOPS`
+### `DATABASE & DEVOPS`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050A0E?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
-![Git](https://img.shields.io/badge/Git-050A0E?style=for-the-badge&logo=git&logoColor=00E5FF)
-![Docker](https://img.shields.io/badge/Docker-050A0E?style=for-the-badge&logo=docker&logoColor=00E5FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-09090B?style=for-the-badge&logo=postgresql&logoColor=A855F7)
+![Git](https://img.shields.io/badge/Git-09090B?style=for-the-badge&logo=git&logoColor=22D3EE)
+![Docker](https://img.shields.io/badge/Docker-09090B?style=for-the-badge&logo=docker&logoColor=A855F7)
 
 </div>
 
 <br>
 
-## `// DEVELOPMENT_TOOLS`
+---
+
+## `03 // TOOLS`
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS_Code-050A0E?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-050A0E?style=for-the-badge&logo=intellijidea&logoColor=00E5FF)
-![GitHub](https://img.shields.io/badge/GitHub-050A0E?style=for-the-badge&logo=github&logoColor=00E5FF)
-![Git](https://img.shields.io/badge/Git-050A0E?style=for-the-badge&logo=git&logoColor=00E5FF)
-![Postman](https://img.shields.io/badge/Postman-050A0E?style=for-the-badge&logo=postman&logoColor=00E5FF)
-![Figma](https://img.shields.io/badge/Figma-050A0E?style=for-the-badge&logo=figma&logoColor=00E5FF)
+![VS Code](https://img.shields.io/badge/VS_Code-09090B?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-09090B?style=for-the-badge&logo=intellijidea&logoColor=A855F7)
+![GitHub](https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=22D3EE)
+![Postman](https://img.shields.io/badge/Postman-09090B?style=for-the-badge&logo=postman&logoColor=A855F7)
+![Figma](https://img.shields.io/badge/Figma-09090B?style=for-the-badge&logo=figma&logoColor=22D3EE)
 
-![Docker](https://img.shields.io/badge/Docker-050A0E?style=for-the-badge&logo=docker&logoColor=00E5FF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-050A0E?style=for-the-badge&logo=cloudflare&logoColor=00E5FF)
-![Claude](https://img.shields.io/badge/Claude_Code-050A0E?style=for-the-badge&logo=claude&logoColor=00E5FF)
-![OpenCode](https://img.shields.io/badge/OpenCode-050A0E?style=for-the-badge&logoColor=00E5FF)
-![Antigravity](https://img.shields.io/badge/Antigravity-050A0E?style=for-the-badge&logoColor=00E5FF)
+![Docker](https://img.shields.io/badge/Docker-09090B?style=for-the-badge&logo=docker&logoColor=A855F7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-09090B?style=for-the-badge&logo=cloudflare&logoColor=22D3EE)
+![Claude Code](https://img.shields.io/badge/Claude_Code-09090B?style=for-the-badge&logo=claude&logoColor=A855F7)
+![OpenCode](https://img.shields.io/badge/OpenCode-09090B?style=for-the-badge&logoColor=22D3EE)
+![Antigravity](https://img.shields.io/badge/Antigravity-09090B?style=for-the-badge&logoColor=A855F7)
 
 </div>
 
 <br>
 
-## `// KNOWLEDGE_MATRIX`
+---
+
+## `04 // KNOWLEDGE_MATRIX`
 
 ```text
-DEVELOPMENT
-├── Java
-│   └── Spring Boot
-├── Python
-│   └── Django
-├── JavaScript
-├── HTML / CSS
-├── Tailwind CSS
-└── PostgreSQL
+SOFTWARE_ENGINEERING
+│
+├── Backend
+│   ├── Java
+│   │   └── Spring Boot
+│   │
+│   └── Python
+│       └── Django
+│
+├── Frontend
+│   ├── JavaScript
+│   ├── HTML
+│   ├── CSS
+│   └── Tailwind CSS
+│
+├── Database
+│   └── PostgreSQL
+│
+└── Version Control
+    └── Git
+
 
 INFRASTRUCTURE
+│
 ├── Computer Networks
 ├── Docker
 ├── Cloudflare
-├── Git
-└── Linux / Networking Concepts
+└── Network Infrastructure
 
-RESEARCH
+
+RESEARCH & LEARNING
+│
 ├── Artificial Intelligence
 ├── Cybersecurity
-├── Network Infrastructure
-└── Software Architecture
+├── Software Architecture
+└── Network Engineering
 ```
 
 <br>
 
-## `// CURRENT_OBJECTIVES`
+---
+
+## `05 // CURRENT_OBJECTIVES`
 
 ```bash
-arthur@jarvis:~$ ./current_mission.sh
+arthur@ai-core:~$ systemctl status learning.service
 
-[+] Melhorar conhecimentos em redes.................... [ RUNNING ]
-[+] Aprofundar conhecimentos em Django................. [ RUNNING ]
-[+] Estudar cybersegurança.............................. [ RUNNING ]
-[+] Aprofundar conhecimentos em Java.................... [ RUNNING ]
-[+] Evoluir conhecimentos em Docker..................... [ RUNNING ]
-[>] Aprender Kubernetes................................. [ QUEUED  ]
+● learning.service - Arthur Continuous Learning Engine
+   Loaded: loaded
+   Active: active (running)
 
-arthur@jarvis:~$ echo $MINDSET
+TASKS
 
-"Aprendizado contínuo."
+[ACTIVE]  Melhorar conhecimentos em redes
+[ACTIVE]  Aprofundar conhecimentos em Django
+[ACTIVE]  Estudar cybersegurança
+[ACTIVE]  Aprofundar conhecimentos em Java
+[ACTIVE]  Evoluir conhecimentos em Docker
 
-arthur@jarvis:~$ _
+[QUEUE]   Kubernetes
+
+PROCESS STATUS
+──────────────────────────────────────────────
+
+NETWORKING        ███████████████░░░░░   RUNNING
+DJANGO            █████████████░░░░░░░   RUNNING
+CYBERSECURITY     ██████████░░░░░░░░░░   RUNNING
+JAVA              ████████████░░░░░░░░   RUNNING
+DOCKER            ███████████░░░░░░░░░   RUNNING
+KUBERNETES        ██░░░░░░░░░░░░░░░░░░   QUEUED
+
+arthur@ai-core:~$ echo $MINDSET
+
+Learn. Build. Improve. Repeat.
+
+arthur@ai-core:~$ _
 ```
 
 <br>
 
-<!-- ===================================================== -->
-<!-- PROJETOS - DESCOMENTE QUANDO QUISER EXIBIR PROJETOS  -->
-<!-- ===================================================== -->
+---
+
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                      -->
+<!--                                                          -->
+<!-- Descomente esta seção quando possuir projetos públicos.  -->
+<!-- ========================================================= -->
 
 <!--
 
-## `// FEATURED_PROJECTS`
+## `06 // FEATURED_PROJECTS`
 
 <div align="center">
 
 <a href="LINK_DO_REPOSITORIO">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuts9&repo=NOME_DO_REPOSITORIO&bg_color=050A0E&title_color=00E5FF&text_color=8B949E&icon_color=00E5FF&border_color=00E5FF" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuts9&repo=NOME_DO_REPOSITORIO&bg_color=09090B&title_color=A855F7&text_color=D4D4D8&icon_color=22D3EE&border_color=27272A" />
 </a>
 
 <a href="LINK_DO_REPOSITORIO">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuts9&repo=NOME_DO_REPOSITORIO&bg_color=050A0E&title_color=00E5FF&text_color=8B949E&icon_color=00E5FF&border_color=00E5FF" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tuts9&repo=NOME_DO_REPOSITORIO&bg_color=09090B&title_color=22D3EE&text_color=D4D4D8&icon_color=A855F7&border_color=27272A" />
 </a>
 
 </div>
@@ -197,13 +244,13 @@ arthur@jarvis:~$ _
 
 -->
 
-## `// SYSTEM_ANALYTICS`
+## `06 // SYSTEM_ANALYTICS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tuts9&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=050A0E&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&border_color=0D5661&locale=pt-br" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tuts9&show_icons=true&include_all_commits=true&count_private=true&bg_color=09090B&title_color=A855F7&text_color=D4D4D8&icon_color=22D3EE&border_color=27272A&locale=pt-br" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuts9&layout=compact&langs_count=8&bg_color=050A0E&title_color=00E5FF&text_color=C9D1D9&border_color=0D5661" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuts9&layout=compact&langs_count=8&bg_color=09090B&title_color=22D3EE&text_color=D4D4D8&border_color=27272A" />
 
 </div>
 
@@ -211,100 +258,114 @@ arthur@jarvis:~$ _
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Tuts9&background=050A0E&border=0D5661&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Tuts9&background=09090B&border=27272A&stroke=A855F7&ring=A855F7&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=A1A1AA&dates=71717A" alt="GitHub Streak" />
 
 </div>
 
 <br>
 
-## `// ACTIVITY_MONITOR`
+---
+
+## `07 // ACTIVITY_GRAPH`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tuts9&bg_color=050A0E&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=false&custom_title=Arthur%20Rodrigues%20%2F%2F%20Activity%20Monitor" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tuts9&bg_color=09090B&color=A855F7&line=22D3EE&point=FFFFFF&area=true&area_color=581C87&hide_border=false&custom_title=Arthur%20Rodrigues%20%2F%2F%20Activity%20Matrix" />
 
 </div>
 
 <br>
 
-## `// ACHIEVEMENTS_DATABASE`
+---
+
+## `08 // ACHIEVEMENTS`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tuts9&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tuts9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
 <br>
 
-## `// CONTRIBUTION_PROTOCOL`
+---
+
+## `09 // CONTRIBUTION_MATRIX`
 
 <div align="center">
 
 ```text
-CONTRIBUTION MATRIX
-─────────────────────────────────────────────────────────
-Scanning GitHub activity...
-Tracking commits...
-Analyzing contribution pattern...
+SYSTEM // CONTRIBUTION MONITOR
 
-STATUS: ONLINE
+Scanning repositories................... OK
+Reading contribution matrix............ OK
+Tracking development activity.......... OK
+Neural visualization................... ACTIVE
+
+STATUS                                  ONLINE
 ```
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Tuts9/Tuts9/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Tuts9/Tuts9/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/Tuts9/Tuts9/output/github-contribution-grid-snake.svg"
-  />
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Tuts9/Tuts9/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Tuts9/Tuts9/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Tuts9/Tuts9/output/github-contribution-grid-snake-dark.svg"
+/>
+
 </picture>
 
 </div>
 
 <br>
 
-## `// NETWORK_INTERFACE`
+---
+
+## `10 // CONNECTION_PROTOCOL`
 
 <div align="center">
 
 ```text
 ┌─────────────────────────────────────────────┐
-│             ESTABLISH CONNECTION            │
-├─────────────────────────────────────────────┤
 │                                             │
-│   LinkedIn • Instagram • Portfolio • Mail   │
+│              OPEN CONNECTION                │
+│                                             │
+│       LinkedIn // Instagram // Web          │
+│                  Email                      │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
 
-<!-- SUBSTITUA # PELOS SEUS LINKS -->
+<!-- ALTERE OS LINKS ABAIXO -->
 
 <a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-050A0E?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Instagram-050A0E?style=for-the-badge&logo=instagram&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Instagram-09090B?style=for-the-badge&logo=instagram&logoColor=A855F7" />
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-050A0E?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Portfolio-09090B?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" />
 </a>
 
 <a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-050A0E?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=A855F7" />
 </a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tuts9&style=for-the-badge&color=00b8d4&label=SYSTEM+VISITS)
+<img src="https://komarev.com/ghpvc/?username=Tuts9&style=for-the-badge&color=7C3AED&label=PROFILE+ACCESS" />
 
 </div>
 
@@ -315,25 +376,37 @@ STATUS: ONLINE
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════╗
-║              END OF TRANSMISSION             ║
-║                                              ║
-║          SYSTEM STATUS // ONLINE             ║
-║          USER // ARTHUR RODRIGUES            ║
-║          ID // @Tuts9                        ║
-╚══════════════════════════════════════════════╝
+                      AI CORE
+
+             ARTHUR RODRIGUES // Tuts9
+
+                SYSTEM STATUS
+
+                    ONLINE
+
+          ───────────────────────
+
+              CONNECTION SECURE
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1500&color=00E5FF&center=true&vCenter=true&width=600&lines=%3E+Technology+is+a+continuous+learning+process.;%3E+Build.+Learn.+Improve.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4000&pause=1800&color=A855F7&center=true&vCenter=true&width=700&lines=%3E+Learning+never+stops.;%3E+Technology+is+built+by+curiosity.;%3E+Learn.+Build.+Improve.+Repeat." alt="Footer Typing" />
 
 <br>
 
-`SYSTEM ONLINE` • `CONNECTION SECURE` • `BUILDING THE FUTURE`
+![AI](https://img.shields.io/badge/AI_CORE-ACTIVE-A855F7?style=flat-square&labelColor=09090B)
+![Network](https://img.shields.io/badge/NETWORK-SECURE-22D3EE?style=flat-square&labelColor=09090B)
+![System](https://img.shields.io/badge/SYSTEM-ONLINE-6366F1?style=flat-square&labelColor=09090B)
 
 <br><br>
 
 <sub>
-Designed for <b>Arthur Rodrigues</b> // Powered by curiosity, code and continuous learning.
+<b>ARTHUR RODRIGUES</b> // Full Stack Developer
+<br>
+Software • Networks • AI • Cybersecurity
 </sub>
+
+<br><br>
+
+`© ARTHUR RODRIGUES // Tuts9`
 
 </div>
