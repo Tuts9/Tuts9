@@ -266,19 +266,7 @@ arthur@ai-core:~$ _
 
 ---
 
-## `07 // ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tuts9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-
-</div>
-
-<br>
-
----
-
-## `08 // CONTRIBUTION_MATRIX`
+## `07 // CONTRIBUTION_MATRIX`
 
 <div align="center">
 
@@ -318,7 +306,7 @@ src="https://raw.githubusercontent.com/Tuts9/Tuts9/output/github-contribution-gr
 
 ---
 
-## `09 // CONNECTION_PROTOCOL`
+## `08 // CONNECTION_PROTOCOL`
 
 <div align="center">
 
