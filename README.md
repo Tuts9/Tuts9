@@ -96,7 +96,7 @@ O sistema possui recursos como:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-09090B?style=for-the-badge&logo=javascript&logoColor=A855F7)
 ![HTML5](https://img.shields.io/badge/HTML5-09090B?style=for-the-badge&logo=html5&logoColor=22D3EE)
-![CSS3](https://img.shields.io/badge/CSS3-09090B?style=for-the-badge&logo=css3&logoColor=A855F7)
+![CSS3](https://img.shields.io/badge/CSS3-09090B?style=for-the-badge&logo=css&logoColor=A855F7)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-09090B?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
 
 ### `DATABASE & DEVOPS`
@@ -115,7 +115,7 @@ O sistema possui recursos como:
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS_Code-09090B?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
+![VS Code](https://img.shields.io/badge/VS_Code-09090B?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMjJEM0VFIiBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8%2BPC9zdmc%2B)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-09090B?style=for-the-badge&logo=intellijidea&logoColor=A855F7)
 ![GitHub](https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=22D3EE)
 ![Postman](https://img.shields.io/badge/Postman-09090B?style=for-the-badge&logo=postman&logoColor=A855F7)
@@ -348,7 +348,7 @@ src="https://raw.githubusercontent.com/Tuts9/Tuts9/output/github-contribution-gr
 <!-- ALTERE OS LINKS ABAIXO -->
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMjJEM0VFIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" />
 </a>
 
 <a href="#">
