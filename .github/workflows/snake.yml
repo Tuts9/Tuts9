@@ -21,6 +21,9 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Tuts9
+          # Token pessoal (secret SNAKE_TOKEN) para incluir contribuições privadas;
+          # sem ele, usa o token padrão e só as contribuições públicas aparecem.
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
 
           outputs: |
             dist/github-contribution-grid-snake.svg
