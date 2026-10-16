@@ -266,19 +266,7 @@ arthur@ai-core:~$ _
 
 ---
 
-## `07 // ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tuts9&bg_color=09090B&color=A855F7&line=22D3EE&point=FFFFFF&area=true&area_color=581C87&hide_border=false&custom_title=Arthur%20Rodrigues%20%2F%2F%20Activity%20Matrix" />
-
-</div>
-
-<br>
-
----
-
-## `08 // ACHIEVEMENTS`
+## `07 // ACHIEVEMENTS`
 
 <div align="center">
 
@@ -290,7 +278,7 @@ arthur@ai-core:~$ _
 
 ---
 
-## `09 // CONTRIBUTION_MATRIX`
+## `08 // CONTRIBUTION_MATRIX`
 
 <div align="center">
 
@@ -330,7 +318,7 @@ src="https://raw.githubusercontent.com/Tuts9/Tuts9/output/github-contribution-gr
 
 ---
 
-## `10 // CONNECTION_PROTOCOL`
+## `09 // CONNECTION_PROTOCOL`
 
 <div align="center">
 
